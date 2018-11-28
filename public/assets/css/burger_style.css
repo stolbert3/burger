@@ -29,6 +29,7 @@ li {
     display: table-cell;
     outline: 5px solid black;
     padding: 10px;
+    border-spacing: 10px;
 }
 
 .tableTitle {
@@ -40,4 +41,9 @@ li {
 
 .createABurger {
     display: block;
+    outline: 5px solid black;
+    width: 50%;
+    float: right;
+    margin: 20px;
+    padding: 5px;
 }
