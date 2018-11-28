@@ -30,9 +30,7 @@ li {
     outline: 5px solid black;
     padding: 10px;
     border-spacing: 10px;
-}
-
-.tableTitle {
+    width: 40%;
 }
 
 .tableList {
